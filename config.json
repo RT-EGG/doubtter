@@ -1,5 +1,4 @@
 {
-    "auto_activate": false,
     "learn_target_account": "",
     "tweet_prefix": "[**bot**] ",
     "need_confirm_to_tweet": true,

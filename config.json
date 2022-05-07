@@ -1,0 +1,7 @@
+{
+    "auto_activate": false,
+    "learn_target_account": "",
+    "tweet_prefix": "[**bot**] ",
+    "need_confirm_to_tweet": true,
+    "tweet_span_in_seconds": 60
+}
